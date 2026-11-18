@@ -1,0 +1,6 @@
+{
+  "name": "PSR-S975",
+  "description": "Yamaha PSR-S975 digital arranger workstation with SF2/STY/WAV importer, high-quality voices and drums, Registration Freeze/Memory, and Pitch Bend & Modulation wheels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
